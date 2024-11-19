@@ -20,7 +20,7 @@ Installation
 ------------
 
 ```bash
-$ composer require hyperwallet/sdk
+$ composer require mediacube/hyperwallet-sdk
 ```
 
 
