@@ -1,5 +1,5 @@
 {
-  "name": "hyperwallet/sdk",
+  "name": "mediacube/hyperwallet/sdk",
   "description": "A library to manage users, transfer methods and payments through the Hyperwallet API",
   "type": "library",
   "keywords": [
@@ -11,12 +11,12 @@
     "creditcard",
     "ach"
   ],
-  "homepage": "https://github.com/hyperwallet/php-sdk",
+  "homepage": "https://github.com/Tasejkethx/hyperwallet-sdk",
   "license": "MIT",
   "authors": [
     {
-      "name": "Florian Krauthan",
-      "email": "fkrauthan@hyperwallet.com"
+      "name": "Mediacube team",
+      "email": "mediacube@gmail.com"
     }
   ],
   "require": {
